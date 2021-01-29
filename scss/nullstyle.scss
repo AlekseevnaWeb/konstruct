@@ -1,0 +1,25 @@
+body {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: "Open Sans", sans-serif;
+    font-size: 13px;
+    color: #48555b;
+    scroll-behavior: smooth;
+}
+
+a {
+    text-decoration: none;
+}
+
+p,
+ul,
+ol,
+li,
+h1,
+h2,
+h3 {
+    padding: 0px;
+    margin: 0px;
+    list-style-type: none;
+}
